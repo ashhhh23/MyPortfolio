@@ -6,11 +6,12 @@
 ---
 
 ## 🚀**Summary**  
+
 Final-year Electrical Power Engineering student (graduating June 2025) with a strong academic foundation, hands-on project experience, and a passion for innovative problem-solving. Seeking opportunities to apply technical skills, adaptability, and creativity in a forward-thinking organization.  
 
 ---
 
-##📚**Education**  
+## 📚**Education**  
 ### **Universiti Tenaga Nasional (UNITEN)**  
 **Bachelor of Electrical Power Engineering (Hons.)** *(Sept 2021 - July 2025)*  
 - Dean’s List Award (Semester 2, Year 3)  
@@ -24,7 +25,7 @@ Final-year Electrical Power Engineering student (graduating June 2025) with a st
 
 ---
 
-##**Work Experience**  
+## 👩‍💻**Work Experience**  
 ### **PETRONAS GTS/PD&T - Electrical (Internship)** *(July 2024 - Sept 2024)*  
 - Developed a Power Plant Selection Dashboard for engineers, analyzing 200+ generator specifications.  
 - Conducted alternator performance evaluations at RESAK & Sabah Gas Power Plant.  
@@ -51,7 +52,7 @@ Final-year Electrical Power Engineering student (graduating June 2025) with a st
 
 ---
 
-## **Extracurricular Activities & Leadership**  
+## 🛠**Extracurricular Activities & Leadership**  
 - **Program Director** - IEEE Computer Society Global Congress 2023 *(International)*  
 - **Vice President & HR Lead** - Student Representative Council 2023/2024  
 - **Master of Ceremony** - Emceed over 25 events in English & Malay  
@@ -64,7 +65,7 @@ Final-year Electrical Power Engineering student (graduating June 2025) with a st
 
 ---
 
-## **Languages**  
+## 🎤**Languages**  
 - **Bahasa Malaysia**  
 - **English** *(MUET Band 5)*  
 - **Tamil** *(Conversational)*  
@@ -72,7 +73,7 @@ Final-year Electrical Power Engineering student (graduating June 2025) with a st
 
 ---
 
-## **Awards & Achievements**  
+## 🏆**Awards & Achievements**  
 - **The Shout Project** *(Recognized by UNICEF & UNDP, Guinness World Record Attempt - 2020)*  
 - **World Taekwondo Federation (WTF)** *(Black Belt - 2016)*  
 - **ABRSM, Royal School of Music** *(Piano - 2016)*  
