@@ -3,7 +3,7 @@
 Final-year Electrical Power Engineering student (graduating June 2025) with a strong academic foundation, hands-on project experience, and a passion for innovative problem-solving. Seeking opportunities to apply technical skills, adaptability, and creativity in a forward-thinking organization.  
 
 
-## 📚**Education**  
+## 🎓**Education**  
 ### **Universiti Tenaga Nasional (UNITEN)**  
 **Bachelor of Electrical Power Engineering (Hons.)** *(Sept 2021 - July 2025)*  
 - Dean’s List Award (Semester 2, Year 3)  
