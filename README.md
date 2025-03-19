@@ -1,6 +1,6 @@
 ## 🚀**About Me**  
 
-Final-year Electrical Power Engineering student (graduating June 2025) with a strong academic foundation, hands-on project experience, and a passion for innovative problem-solving. Seeking opportunities to apply technical skills, adaptability, and creativity in a forward-thinking organization.  
+I am a final-year Electrical Power Engineering student (graduating June 2025) with a strong academic foundation, hands-on project experience, and a passion for innovative problem-solving. Seeking opportunities to apply technical skills, adaptability, and creativity in a forward-thinking organization.  
 
 
 ## 🎓**Education**  
@@ -18,24 +18,27 @@ Final-year Electrical Power Engineering student (graduating June 2025) with a st
 
 ## 👩‍💻**Work Experience**  
 ### **PETRONAS GTS/PD&T - Electrical (Internship)** *(July 2024 - Sept 2024)*  
-- Developed a Power Plant Selection Dashboard for engineers, analyzing 200+ generator specifications.  
-- Conducted alternator performance evaluations at RESAK & Sabah Gas Power Plant.  
-- Researched machine learning applications for generator performance optimization.  
-- Assisted in staff man-hours tracking and cost analysis.  
-
+- Developed a Power Plant Selection Dashboard, analyzing specifications of 200+ generators to
+ streamline selection processes for engineers.
+- Conducted performance evaluations of RESAK & Sabah Gas Power Plant alternators by analyzing
+ key parameters, ensuring optimal efficiency and early issue detection.
+- Researched and analyzed test report data to support the implementation of machine learning for
+ generator performance optimization.
+- Contributed to staff man-hours tracking and cost analysis by updating performance dashboards and risk mitigation plans.
+  
 ### **TRONE Solutions & Technologies Sdn. Bhd. (Internship)** *(June 2021 - Sept 2021)*  
-- Assisted in ROV operations, focusing on safety protocols and component functionality.  
-- Worked with senior technicians on troubleshooting, design, and equipment repair.  
-- Contributed to the development of maintenance and safety procedures.  
+- Assisted in operating and maintaining remotely operated vehicles (ROVs), primarily focusing on safety protocols and component functionality.
+- Working with senior technicians to troubleshoot technical problems design and repair equipment and prepare corrective actions to improve ROV performance and reliability.
+- Documented observations of new guidelines and processes related to safety and component functionality, contributing to developing maintenance procedures and safety guidelines.  
 
 ### **Sinar Suri Komunikasi Sdn. Bhd. (Part-Time)** *(Jan 2022 - May 2022)*  
-- Analyzed and mapped technical specifications of tower tenders.  
-- Provided technical support in structural design, materials selection, and safety compliance.  
+- Analyzed data and mapped technical specifications of the tower's Bill of Quantities (BQ) to ensure the minimum requirement of tender is met.
+- Supported senior team members in analyzing and understanding the technical specifications of tower tenders.
+- Assisted in providing technical guidance for tender proposals, focusing on structural design, materials, safety standards, and compliance. 
+ 
 
 
-## 🛠**Skills & Tools**  
-- **Technical Skills:** Problem-Solving, Troubleshooting, Product Testing, Hardware & Software Design  
-- **Software Proficiency:**  
+## 🛠**Skills & Tools**   
   - **Expert:** Microsoft Office, MP Lab, Proteus, Simulink, Canva  
   - **Intermediate:** Tinkercad, PSpice, I/O Factory, MATLAB  
   - **Basic:** AUTOCAD, PVsyst, Visual Studio  
@@ -43,7 +46,7 @@ Final-year Electrical Power Engineering student (graduating June 2025) with a st
 
 ## ⚡️**Extracurricular Activities & Leadership**  
 - **Program Director** - IEEE Computer Society Global Congress 2023 *(International)*  
-- **Vice President & HR Lead** - Student Representative Council 2023/2024  
+- **Vice President & Governing Human Resource** - Student Representative Council 2023/2024  
 - **Master of Ceremony** - Emceed over 25 events in English & Malay  
 - **Club Supervisor** - E-Sports Club & Indian Cultural Society  
 - **Program Director** - "The Route to a Sustainable Future" (Collab with TNBX, GNECO & GSPARX)  
