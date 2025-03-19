@@ -1,5 +1,4 @@
-# **Ashwathi Surendran**  
-**Final-Year Electrical Power Engineering Student**  
+### **Final-Year Electrical Power Engineering Student**  
 📍 Puchong, Selangor | 📧 ashwathi0523@gmail.com | 📞 019-9110523  
 [LinkedIn: Ashwathi Surendran](https://www.linkedin.com/in/ashwathisurendran/)  
 
@@ -9,7 +8,6 @@
 
 Final-year Electrical Power Engineering student (graduating June 2025) with a strong academic foundation, hands-on project experience, and a passion for innovative problem-solving. Seeking opportunities to apply technical skills, adaptability, and creativity in a forward-thinking organization.  
 
----
 
 ## 📚**Education**  
 ### **Universiti Tenaga Nasional (UNITEN)**  
@@ -23,7 +21,6 @@ Final-year Electrical Power Engineering student (graduating June 2025) with a st
 - Final Year Project: *"RFID-Based Shopping Cart"*  
 - Yayasan Tenaga Nasional SHINE Scholar  
 
----
 
 ## 👩‍💻**Work Experience**  
 ### **PETRONAS GTS/PD&T - Electrical (Internship)** *(July 2024 - Sept 2024)*  
@@ -41,7 +38,6 @@ Final-year Electrical Power Engineering student (graduating June 2025) with a st
 - Analyzed and mapped technical specifications of tower tenders.  
 - Provided technical support in structural design, materials selection, and safety compliance.  
 
----
 
 ## **Skills & Tools**  
 - **Technical Skills:** Problem-Solving, Troubleshooting, Product Testing, Hardware & Software Design  
@@ -50,7 +46,6 @@ Final-year Electrical Power Engineering student (graduating June 2025) with a st
   - **Intermediate:** Tinkercad, PSpice, I/O Factory, MATLAB  
   - **Basic:** AUTOCAD, PVsyst, Visual Studio  
 
----
 
 ## 🛠**Extracurricular Activities & Leadership**  
 - **Program Director** - IEEE Computer Society Global Congress 2023 *(International)*  
@@ -63,7 +58,6 @@ Final-year Electrical Power Engineering student (graduating June 2025) with a st
 - **Head of Protocol & PR** - Campus Elections 2023 & 2024, ISS Lugathi, Club Fiesta 1.0  
 - **Facilitator** - UNITEN Orientation Program  
 
----
 
 ## 🎤**Languages**  
 - **Bahasa Malaysia**  
@@ -71,14 +65,12 @@ Final-year Electrical Power Engineering student (graduating June 2025) with a st
 - **Tamil** *(Conversational)*  
 - **Malayalam** *(Conversational)*  
 
----
 
 ## 🏆**Awards & Achievements**  
 - **The Shout Project** *(Recognized by UNICEF & UNDP, Guinness World Record Attempt - 2020)*  
 - **World Taekwondo Federation (WTF)** *(Black Belt - 2016)*  
 - **ABRSM, Royal School of Music** *(Piano - 2016)*  
 
----
 
 ## **References**  
 📌 **Ms. Redia Binti Mohd Redzuan**  
@@ -88,14 +80,5 @@ Lecturer & Advisor, Universiti Tenaga Nasional (UNITEN)
 📌 **Mr. Rajieev Kumar**  
 Operation Manager, Trone Solutions & Technology  
 ✉️ rajieev@trone-s-t.com  
-```
 
-This markdown format is clean, structured, and easy to read. You can use it for your website, GitHub, or any online portfolio! 🚀 Let me know if you’d like any modifications. 😊
 
- 
-
-## 📢 Connect with Me  
-
-🔗 [LinkedIn](https://www.linkedin.com/in/prajindra/)  
-
-📺 [YouTube Channel](https://www.youtube.com/@prajindrasankar5879)
