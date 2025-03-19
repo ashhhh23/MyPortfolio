@@ -1,10 +1,4 @@
-### **Final-Year Electrical Power Engineering Student**  
-📍 Puchong, Selangor | 📧 ashwathi0523@gmail.com | 📞 019-9110523  
-[LinkedIn: Ashwathi Surendran](https://www.linkedin.com/in/ashwathisurendran/)  
-
----
-
-## 🚀**Summary**  
+## 🚀**About Me**  
 
 Final-year Electrical Power Engineering student (graduating June 2025) with a strong academic foundation, hands-on project experience, and a passion for innovative problem-solving. Seeking opportunities to apply technical skills, adaptability, and creativity in a forward-thinking organization.  
 
