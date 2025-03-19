@@ -33,7 +33,7 @@ Final-year Electrical Power Engineering student (graduating June 2025) with a st
 - Provided technical support in structural design, materials selection, and safety compliance.  
 
 
-## **Skills & Tools**  
+## 🛠**Skills & Tools**  
 - **Technical Skills:** Problem-Solving, Troubleshooting, Product Testing, Hardware & Software Design  
 - **Software Proficiency:**  
   - **Expert:** Microsoft Office, MP Lab, Proteus, Simulink, Canva  
@@ -41,7 +41,7 @@ Final-year Electrical Power Engineering student (graduating June 2025) with a st
   - **Basic:** AUTOCAD, PVsyst, Visual Studio  
 
 
-## 🛠**Extracurricular Activities & Leadership**  
+## ⚡️**Extracurricular Activities & Leadership**  
 - **Program Director** - IEEE Computer Society Global Congress 2023 *(International)*  
 - **Vice President & HR Lead** - Student Representative Council 2023/2024  
 - **Master of Ceremony** - Emceed over 25 events in English & Malay  
